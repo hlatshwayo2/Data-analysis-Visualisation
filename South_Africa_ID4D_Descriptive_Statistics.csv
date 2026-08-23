@@ -1,0 +1,8 @@
+INDICATOR_LABEL,Count,Mean,Median,Std_Dev,Minimum,Maximum
+Digital ID verification,1,1.0,1.0,,1.0,1.0
+Digital data use,1,1.0,1.0,,1.0,1.0
+Foundational ID has been used without permission for illegal purposes,8,7.06,7.28,1.35,5.05,8.87
+ID ownership,39,91.71,92.35,2.91,81.06,95.82
+Online digital identity,2,0.0,0.0,0.0,0.0,0.0
+Population facing challenges for not owning an ID,6,37.34,39.71,8.93,26.56,46.9
+Population without an ID by reason,6,25.04,22.75,12.44,13.43,46.22
